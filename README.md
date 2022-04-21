@@ -15,3 +15,5 @@
 - All the categories will have the same page layout just with different questions.
 - Now that I have added all the pages layout for the categories, I'm thiking of adding the CSS, to get a better view on how it looks.
 - It was easy to pick the colours because I just copied what I had chosen in Figma, same for the fonts.
+- I added the javascript for all the categories, which also contain the questions and the correct answers.
+- Fun fact, the answer changes to a green colour when you choose the correct answer and red when its incorrect.
