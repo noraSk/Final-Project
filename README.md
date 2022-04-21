@@ -8,3 +8,8 @@
 - The Figma mockup is a rough idea hence the reason why the game turned out a bit differently.
 - The inspiration came from the game "Who wants to be a millionaire", where you answer questions to obtain money.
 - I want to make something similar to keep users entertained.
+### Code Journal
+- I started by making the first page, which introduces the title of the game and added the two buttons which I will be fixing with CSS later.
+- Once you hit 'Play' you are taken to the second page, which are the categories.
+- Based from the players knowledge, they get to choose the category of the questions that they want to answer.
+- All the categories will have the same page layout just with different questions.
