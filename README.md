@@ -13,3 +13,5 @@
 - Once you hit 'Play' you are taken to the second page, which are the categories.
 - Based from the players knowledge, they get to choose the category of the questions that they want to answer.
 - All the categories will have the same page layout just with different questions.
+- Now that I have added all the pages layout for the categories, I'm thiking of adding the CSS, to get a better view on how it looks.
+- It was easy to pick the colours because I just copied what I had chosen in Figma, same for the fonts.
