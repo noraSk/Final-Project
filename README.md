@@ -1,6 +1,6 @@
 # Final-Project
 ## Trivia Quiz Game
-- [Trivia Quiz Game Live Server](http://127.0.0.1:5500/assignments/Final-Project/)
+- [Trivia Quiz Game Live Server](https://norask.github.io/Final-Project/)
 - [GitHub repo](https://github.com/noraSk/Final-Project)
 ### Goals/Ideas
 - The idea for this project is to create a quiz game by using only HTML,CSS and Javascript.
